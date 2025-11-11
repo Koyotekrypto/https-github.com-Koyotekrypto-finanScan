@@ -1,0 +1,7 @@
+{
+  "name": "Versão 11/11/2025 FinanScan",
+  "description": "Revolutionize your personal finance management. Simply upload your receipts, and let our AI extract the data for you. No more manual entry. Fast, easy, and accurate.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
